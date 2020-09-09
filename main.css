@@ -64,6 +64,36 @@ body {
     margin-left: 1rem;
 }
 
+.contact-me-title {
+    background-color: #2db6b1;
+    color: #fff;
+    font-size: 2rem;
+    padding: 0.5rem 0;  
+}
+
+.contact-me-title:active {
+    background-color: #00968d;
+}
+
+.contact-me .item.top {
+    margin-top: 1rem;
+}
+
+.contact-me .item-list .item-title {
+    font-size: 1.5rem;
+    margin-left: 1rem;
+}
+
+.contact-me .item-list .item-text {
+    opacity: 0.8;
+    font-size: 1.2rem;
+    margin-left: 1rem;
+}
+
+.contact-me .item-list .item {
+    margin-bottom: 1rem;
+}
+
 .skill-category.top {
     margin-top: 0.5rem;
 }

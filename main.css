@@ -86,6 +86,20 @@ body {
     margin-top: 0.5rem;
 }
 
+.project-title {
+    color: #2d74b5;
+    font-size: 1.5rem;
+    font-weight: 800;
+    margin-left: 1rem;
+    margin-top: 0.5rem; 
+}
+
+.demo-url {
+    margin-left: 1rem;
+    margin-top: 0.2rem;
+    font-size: 1.3rem;
+}
+
 .company-name {
     margin-left: 1rem;
     margin-top: 0.2rem;
